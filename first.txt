@@ -1,3 +1,4 @@
 基本的な変更を学びますよ
 ・git add
 ・git commit
+・git status
